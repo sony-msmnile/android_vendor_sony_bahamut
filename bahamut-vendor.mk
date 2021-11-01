@@ -144,7 +144,6 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.constants@2.0 \
     com.quicinc.cne.constants@2.1 \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     uceShimService \
     WfdService \
